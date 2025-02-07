@@ -21,7 +21,7 @@
    ```bash
    git clone https://github.com/yourusername/text-recognizer.git
 
-![Screenshot of the app](app\src\main\res\screenshots\1.png)
+![Screenshot of the app](https://github.com/Loff3/Text-Recognizer-App/blob/main/app/src/main/res/screenshots/1.png)
 ![Screenshot of the app](app\src\main\res\screenshots\2.png)
 ![Screenshot of the app](app\src\main\res\screenshots\3.png)
 ![Screenshot of the app](app\src\main\res\screenshots\4.png)

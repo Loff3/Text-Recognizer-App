@@ -25,3 +25,4 @@
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Loff3/Text-Recognizer-App.git
+   

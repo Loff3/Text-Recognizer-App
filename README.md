@@ -15,12 +15,13 @@
 - **CameraTextRecognitionScreen & TextRecognitionAnalyzer:** Core functionality for text scanning.
 - **DocumentSharedViewModel & DocumentEditingScreen:** Share data between components and convert scanned text to PDF.
 
+
+![Screenshot of the app](https://github.com/Loff3/Text-Recognizer-App/blob/main/app/src/main/res/screenshots/1.png)
+![Screenshot of the app](https://github.com/Loff3/Text-Recognizer-App/blob/main/app/src/main/res/screenshots/2.png)
+![Screenshot of the app](https://github.com/Loff3/Text-Recognizer-App/blob/main/app/src/main/res/screenshots/3.png)
+
 ## Setup
 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Loff3/Text-Recognizer-App.git
-
-![Screenshot of the app](https://github.com/Loff3/Text-Recognizer-App/blob/main/app/src/main/res/screenshots/1.png)
-![Screenshot of the app](https://github.com/Loff3/Text-Recognizer-App/blob/main/app/src/main/res/screenshots/2.png)
-![Screenshot of the app](https://github.com/Loff3/Text-Recognizer-App/blob/main/app/src/main/res/screenshots/3.png)
